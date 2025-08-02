@@ -31,7 +31,7 @@ const AboutUs = () => {
 
     const team = [
         {
-            name: "Sarah Johnson",
+            name: "Inham",
             role: "CEO & Founder",
             image: "https://images.unsplash.com/photo-1494790108755-2616b612b786?w=300&h=300&fit=crop&crop=face"
         },
